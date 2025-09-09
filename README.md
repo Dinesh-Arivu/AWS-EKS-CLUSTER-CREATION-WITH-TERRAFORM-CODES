@@ -292,10 +292,4 @@ This repository is provided under the **MIT License** — adapt and use it as yo
 
 ---
 
-If you want, I can:
 
-* Generate a **complete Terraform example** (VPC + EKS + managed node group + outputs) for `us-east-1`.
-* Add `backend` S3/DynamoDB bootstrap scripts.
-* Provide a GitHub Actions workflow that runs Terraform plan/app.
-
-Which one should I produce next?
