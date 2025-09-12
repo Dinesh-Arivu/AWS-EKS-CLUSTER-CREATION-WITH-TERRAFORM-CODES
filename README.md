@@ -10,6 +10,8 @@ It provisions the following:
 
 ---
 
+<img width="306" height="165" alt="AWS EKS" src="https://github.com/user-attachments/assets/7fe61a90-3ced-4f4e-af41-8f585019c17c" />
+
 ## 📂 Project Structure
 
 ```
